@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I'm a passionate software developer with over 4 years of experience working remotely, specializing in Java Spring Boot.. I've been involved in developing enterprise applications across various industries, consistently delivering high-quality solutions.
+Passionate 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with over 4 years of experience in 𝗝𝗮𝘃𝗮 (𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁), working fully remote. I've been involved in developing enterprise applications across various industries, including gambling, ERP applications and energy. I also have some experience with front-end technologies like 𝗥𝗲𝗮𝗰𝘁 and 𝗩𝘂𝗲.𝗷𝘀, mainly for the logic part. 
+
+Adaptable, always eager to learn and focused on delivering efficient solutions. Currently exploring .NET and React Native to expand my expertise in backend and cross-platform mobile development.
 
 * 🌍  I'm based in Iasi
 * ✉️  You can contact me at [vlad.gosman29@gmail.com](mailto:vlad.gosman29@gmail.com)
